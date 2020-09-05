@@ -1,5 +1,6 @@
 body{
     font-family:apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: gainsboro;
 } 
 .navbar{
     background-color: maroon;
@@ -14,5 +15,21 @@ h1{
     color: maroon;
     margin-top:0.5cm;
     font-size:65px;
+}
+ul li{
+    text-align: right;
+    display: inline-block;
+}
+h2{
+    color: maroon;
+    text-align: center;
+}
+.container-fluid{
+    text-align: center;
+}
+#about{
+    margin-top: 5cm;
+    font-size: 40px;
+    color: maroon;
 }
   
