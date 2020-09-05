@@ -1,0 +1,27 @@
+body{
+    font-family:apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#icons li{
+    display: inline-block;
+    text-align: right;
+    color: white;
+}
+* .icons{
+    height: 30px;
+    text-align: right;
+    padding-right: 5px;
+} 
+.navbar{
+    text-align: right;
+    color: maroon;
+    background-color: maroon;
+}
+.navbar li a{
+color: white;
+}
+h1{
+    text-align: center;
+    color: maroon;
+    margin-top:0.5cm;
+    font-size:86px;
+}
