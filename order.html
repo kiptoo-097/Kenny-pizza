@@ -25,8 +25,8 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav navb text-white">
                     <a class="nav-item nav-link active text-white" href="index.html">Home <span
-                            class="sr-only">(current)</span></a>
-                    <a class="nav-item nav-link text-white" href="order.html">Place Order Here</a>
+                            class="sr-only"></span></a>
+                    <a class="nav-item nav-link text-white" href="order.html">Place Order</a>
                     <a class="nav-item nav-link disabled text-white" href="about.html">About us</a>
                 </div>
             </div>
@@ -39,7 +39,7 @@
         <form class="p-3 mt-3 col-md-6 mx-auto">
             <div class="form-group">
                 <label for="flavor">Pizza Toppings</label>
-                <select class="form-control" id="flavor">
+                <select class="form-control" id="flavor" required>
                     <option></option>
                     <option>Mushrooms</option>
                     <option>Chicken pizza</option>
@@ -49,7 +49,7 @@
             </div>
             <div class="form-group">
                 <label for="size">Pizza Size</label>
-                <select class="form-control" id="size">
+                <select class="form-control" id="size" required>
                     <option></option>
                     <option>Small</option>
                     <option>Medium</option>
@@ -58,7 +58,7 @@
             </div>
             <div class="form-group">
                 <label for="crust">Pizza Crust</label>
-                <select class="form-control" id="crust">
+                <select class="form-control" id="crust" required>
                     <option></option>
                     <option>Crispy</option>
                     <option>Stuffed</option>
@@ -67,7 +67,7 @@
             </div>
             <div class="form-group">
                 <label for="topping">Pizza Toppings</label>
-                <select class="form-control" id="topping">
+                <select class="form-control" id="topping" required>
                     <option></option>
                     <option>Pepperoni</option>
                     <option>Mushrooms</option>
@@ -77,7 +77,7 @@
             </div>
             <div class="form-group">
                 <label for="number">Number of Pizza</label>
-                <input type="text" class="form-control" id="number">
+                <input type="text" class="form-control" id="number" required>
             </div>
             <button type="submit" class="btn btn-primary mb-2">Submit</button>
         </form>
