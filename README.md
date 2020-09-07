@@ -1,4 +1,4 @@
-<img src="images/screenshot.png">
+<img src="images/screenshot.png" href="https://kiptoo-097.github.io/Kenny-pizza/">
 
 # ![Kenny Pizza](https://kiptoo-097.github.io/Kenny-pizza/)
 # Kenny Pizza Website
