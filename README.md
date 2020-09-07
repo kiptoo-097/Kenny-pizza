@@ -25,4 +25,3 @@ HTML
 CSS
 Javascript
 ## [License]( https://kiptoo-097.github.io/Kenny-pizza/LICENSE.md)
-MIT © [MIT]( https://kiptoo-097.github.io/Kenny-pizza/LICENSE.md)
