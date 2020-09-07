@@ -1,3 +1,4 @@
+<img src="images/screenshot.png">
 # [KENNY PIZZA](https://kiptoo-097.github.io/Kenny-pizza/)
 # Kenny Pizza
 Kenny pizza is a website that shows available pizza and allows one to choose and order pizza of your own choice. It also enables the customer to choose whether the pizza is to be delivered or to be picked with prices included. 
